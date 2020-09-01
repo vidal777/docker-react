@@ -1,0 +1,24 @@
+[2020-09-01 15:17:43.880] [exthost] [info] extension host started
+[2020-09-01 15:17:43.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:17:43.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-01 15:17:43.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:17:43.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-09-01 15:17:43.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:17:43.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-01 15:17:44.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:17:44.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-09-01 15:17:44.036] [exthost] [info] eager extensions activated
+[2020-09-01 15:18:23.039] [exthost] [info] extension host started
+[2020-09-01 15:18:23.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:18:23.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-01 15:18:23.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:18:23.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-09-01 15:18:23.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:18:23.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-01 15:18:23.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-09-01 15:18:23.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-09-01 15:18:23.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2020-09-01 15:18:23.203] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-09-01 15:18:23.263] [exthost] [info] eager extensions activated
+[2020-09-01 15:18:25.306] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"activationEvent":"onLanguage:dockerfile"}
+[2020-09-01 15:18:25.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/raul/.vscode/extensions/ms-azuretools.vscode-docker-0.8.2/main
