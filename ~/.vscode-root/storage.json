@@ -1380,10 +1380,11 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/raul/Docker/frontend/~/.vscode-root/Backups/1595508210076",
+            "folder": "file:///home/raul/Docker/frontend",
+            "backupPath": "/home/raul/Docker/frontend/~/.vscode-root/Backups/c33078f33a2d7bed497c19ea64f12b51",
             "uiState": {
-                "mode": 1,
-                "x": 2128,
+                "mode": 0,
+                "x": 2124,
                 "y": 57,
                 "width": 1024,
                 "height": 753
